@@ -18,7 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*4)+1);var xxx=null;if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*11)+1);var xxx=null;if(x=="1"){xxx="the-way-to-start-business-at-home.html"}
 if(x=="2"){xxx="10-tips-for-start-small-business-startup.html"}
 if(x=="3"){xxx="advantages-of-being-home-business-owner.html"}
 if(x=="4"){xxx="practice-environmental-qwareness-to-our.html"}a_to_ve[i].href="https://your-link-is-safe.blogspot.com/p/blog-page.html?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
